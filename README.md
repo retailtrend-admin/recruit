@@ -9,8 +9,8 @@
 
   한국에 본사와 기술연구소를 두고 미국, 영국, 중국에 지사와 해외연구소가 있으며, 수출이 매출의 90% 이상을 차지하고 세계 40여 개국의 280여 바이어들이 있는 명실상부한 세계적 기업입니다.
 
-  [회사 홈페이지](http://www.udptechnology.co.kr)  
-  [회사소개 다운로드](https://goo.gl/QM0EJd)
+  - [회사 홈페이지](http://www.udptechnology.co.kr)  
+  - [회사 소개](https://goo.gl/QM0EJd)
 
 
 # 함께 일하고 싶습니다
