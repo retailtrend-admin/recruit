@@ -1,3 +1,7 @@
+
+    본 채용공고는 마감되었습니다.
+    지원해주신 분들께 진심으로 감사의 말씀을 드립니다.
+
 ![UDP Technology Logo](http://www.udptechnology.co.kr/site/common/img/button/logo.png)
 
 # "Unlimited Digital Power" 
