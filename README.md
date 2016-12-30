@@ -157,7 +157,7 @@
 ### 보내실 곳 / 문의
 
   - 모집 지원은 사람인(www.saramin.co.kr) 를 통해서 부탁드립니다.
-  - [recruit.bi_team@udptechnology.com](mailto:recruit.bi_team@udptechnology.com)
+  - [recruit@ucountit.com](mailto:recruit@ucountit.com)
 
 ### 채용기간
 
