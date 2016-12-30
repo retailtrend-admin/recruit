@@ -1,0 +1,8 @@
+title: UDP Cloud Team Recruit
+description: UDP Technology와 함께 하실 디자이너를 찾습니다
+google_analytics: UA-65956573-1
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
